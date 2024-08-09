@@ -11,3 +11,4 @@ archived: false
 - [Some past paper answers](https://tardis.ed.ac.uk/~qaisjp/exams/index.html)
 - [Automarker service](https://groups.inf.ed.ac.uk/inf1-op/) - use this to mark your past papers
 - [Lambda functions tutorial](/resources/inf1-op/lambdas.html)
+– [Prof. Stevens' recorded delivery of INF1B]([/resources/inf1-op/lambdas.html](https://www.youtube.com/playlist?list=PLNFclWaZfiVKcXdPjMR9_-8Q4JwZdUxTX) \([Also on Media Hopper](https://media.ed.ac.uk/createdby/eyJpdiI6IjVYTFNUcEhoaHZLVmt3U3BJUjJWRXc9PSIsInZhbHVlIjoiTXhXcHJNeXNkSGY5c1VvUjJuUVV4QT09IiwibWFjIjoiNjRlMzMzZWNkMDQ2Y2Y0Yzg1MWQ3MTkwZjk1NTUwNzg0NjliNTFlYWIyMTgwMjc1OTY4NDYyY2MyMjhiMGExYiJ9)]\) – a supplement to Fiona McNiel's lectures. 
